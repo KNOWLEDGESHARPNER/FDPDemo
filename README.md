@@ -1,2 +1,2 @@
 # FDPDemo
-FDP Demo purpose
+FDP Demo purpose only
